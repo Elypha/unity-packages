@@ -1,7 +1,7 @@
 {
-    "name": "Elypha's Unity Toolkit",
-    "id": "com.elypha.unity-helper",
-    "url": "https://elypha.github.io/unity-helper/index.json",
+    "name": "Elypha's Unity Packages",
+    "id": "com.elypha.unity-packages",
+    "url": "https://elypha.github.io/unity-packages/index.json",
     "author": {
         "name": "Elypha",
         "email": "i@elypha.com",
@@ -9,11 +9,12 @@
     },
     "description": "Explore and find useful tools for everyday Unity development. This is a curated list from packages I set up for my own projects.",
     "infoLink": {
-        "url": "https://github.com/Elypha/unity-helper",
+        "url": "https://github.com/Elypha/unity-packages",
         "text": "Open GitHub repository"
     },
     "bannerUrl": "banner.jpg",
     "githubRepos": [
-        "Elypha/unity-material-helper"
+        "Elypha/unity-material-helper",
+        "Elypha/unity-vrchat-uploader"
     ]
 }
