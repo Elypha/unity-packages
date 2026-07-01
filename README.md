@@ -17,4 +17,4 @@ Please follow the instructions on https://elypha.github.io/unity-packages/.
 
 # Notes
 
-This project derives from https://github.com/vrchat-community/template-package which makes use of https://github.com/vrchat-community/package-list-action to generate the package list from sources defined in `githubRepos`.
+This project derives from https://github.com/vrchat-community/template-package-listing which makes use of https://github.com/vrchat-community/package-list-action to generate the package list from sources defined in `githubRepos`.
