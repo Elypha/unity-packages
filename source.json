@@ -14,7 +14,8 @@
     },
     "bannerUrl": "banner.jpg",
     "githubRepos": [
-        "Elypha/unity-material-helper",
-        "Elypha/unity-vrchat-uploader"
+        "Elypha/unity-toolkit",
+        "Elypha/unity-vrchat-uploader",
+        "Elypha/unity-material-helper"
     ]
 }
