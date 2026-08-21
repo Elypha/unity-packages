@@ -356,6 +356,23 @@
     },
     "com.elypha.unity-toolkit": {
       "versions": {
+        "0.4.0": {
+          "name": "com.elypha.unity-toolkit",
+          "displayName": "Unity Toolkit",
+          "description": "General Unity Editor QoL utilities.",
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "url": "https://github.com/Elypha/unity-toolkit/releases/download/v0.4.0/com.elypha.unity-toolkit-0.4.0.zip",
+          "version": "0.4.0",
+          "license": "AGPL-3.0-only",
+          "unity": "2022.3",
+          "vpmDependencies": {},
+          "dependencies": {},
+          "zipSHA256": "c54ea78e9457506773de12a8bd58f7125a6d88864bd2f6548fa8a45c9e5379b7"
+        },
         "0.3.0": {
           "name": "com.elypha.unity-toolkit",
           "displayName": "Unity Toolkit",
