@@ -1,0 +1,549 @@
+{
+  "name": "Elypha's Unity Packages",
+  "id": "com.elypha.unity-packages",
+  "url": "https://elypha.github.io/unity-packages/index.json",
+  "description": "Explore and find useful tools for everyday Unity development. This is a curated list from packages I set up for my own projects.",
+  "infoLink": {
+    "url": "https://github.com/Elypha/unity-packages",
+    "text": "Open GitHub repository"
+  },
+  "bannerUrl": "banner.jpg",
+  "author": "Elypha",
+  "authorEmail": "i@elypha.com",
+  "authorUrl": "https://elypha.com",
+  "packages": {
+    "com.elypha.unity-material-helper": {
+      "versions": {
+        "1.21.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.21.0",
+          "unity": "2022.3",
+          "description": "Unity Editor utilities for materials, textures, and shaders.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "5f26954a5ca13660737ba015e6e0443b8d79951f5df12880f27c990d0d0a6de1",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.21.0/com.elypha.unity-material-helper-1.21.0.zip"
+        },
+        "1.20.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.20.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "16e3c5e115afb88ef9d819749cf5ce61e03a0530e731e1a8f890de73109b378d",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.20.0/com.elypha.unity-material-helper-1.20.0.zip"
+        },
+        "1.19.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.19.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "827677a9025c4fd24f80a9bbc8ea882ec375fda14d4aa46ab80ceefbade47cdc",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.19.0/com.elypha.unity-material-helper-1.19.0.zip"
+        },
+        "1.18.1": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.18.1",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "3109243a9d726a75b11ca4b0d1f1c4307d474236d2ba422eacbaaf0b2e5bfdcf",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.18.1/com.elypha.unity-material-helper-1.18.1.zip"
+        },
+        "1.18.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.18.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "2b9f7220a22b30ef95b95a4600611bf7571ee794d2f5c7d8e3b40e4501f253b0",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.18.0/com.elypha.unity-material-helper-1.18.0.zip"
+        },
+        "1.17.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.17.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "bac764fc6922804dd64fada627ca03a602efa3a44685e4c111e16b7f237b975c",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.17.0/com.elypha.vpm.material-helper-1.17.0.zip"
+        },
+        "1.16.1": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.16.1",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "699561d0f5acbf30a4b76c1c4410666b0d081e04b4c5106ec82192a78b595cb5",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.16.1/com.elypha.vpm.material-helper-1.16.1.zip"
+        },
+        "1.16.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.16.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "e9d2ef787deb2c2fabaa5b229c8beecbc2ac1100ab7365ee69ef49a39d320e39",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.16.0/com.elypha.vpm.material-helper-1.16.0.zip"
+        },
+        "1.15.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.15.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "2bc54c7a4c520858e73bcb2a263228d752616cfb6f79fdf3fa5029e4e955513a",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.15.0/com.elypha.vpm.material-helper-1.15.0.zip"
+        },
+        "1.14.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.14.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "508ae275060f8a76d51fca5d526b94921630bc2af10f50006e765bc41655c55a",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.14.0/com.elypha.vpm.material-helper-1.14.0.zip"
+        },
+        "1.13.1": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.13.1",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "b7e3e67796c79bf43c177abca28b56a376bc1037a88d28ed240ea4f8504db3ae",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.13.1/com.elypha.vpm.material-helper-1.13.1.zip"
+        },
+        "1.13.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.13.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "4acd345f2a16584e73d42e29c75bb86bc20ee8aa48ebb35718fb45f91866595d",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.13.0/com.elypha.vpm.material-helper-1.13.0.zip"
+        },
+        "1.12.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.12.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "246ffacfe1eaac33541723dab248222e7dd3cb2362f30aad7d76514f12a021b0",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.12.0/com.elypha.vpm.material-helper-1.12.0.zip"
+        },
+        "1.11.1": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.11.1",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "bc5f5f993cd0c6a819a5e803ffd27247f26d759eb8083a3e74357c7e4e879c4c",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.11.1/com.elypha.vpm.material-helper-1.11.1.zip"
+        },
+        "1.11.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.11.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "fe01d4b34c1238d346839d815bacecbfba99e628fe1a4505fab6d25fbc539143",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.11.0/com.elypha.vpm.material-helper-1.11.0.zip"
+        },
+        "1.10.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.10.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "3f75121afd98b93fb6b364fb3cf33acfdb89c3bb3d58b5eec2ba66929248ad0b",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.10.0/com.elypha.vpm.material-helper-1.10.0.zip"
+        },
+        "1.9.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.9.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "8a8c6d80137d1abf450eefa70bc941521a34f2b92cfce70e24f9c76394188757",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.9.0/com.elypha.vpm.material-helper-1.9.0.zip"
+        },
+        "1.8.2": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.8.2",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "d18d593d8d89122c51c41b32dfba77bd41260b3ef26b0f529a6bf63a3ccff528",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.8.2/com.elypha.vpm.material-helper-1.8.2.zip"
+        },
+        "1.8.1": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.8.1",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "6f22b62fa99fe22787bea2bdaa4c3a82463a96d756862aa559e2811c28c1c9f3",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.8.1/com.elypha.vpm.material-helper-1.8.1.zip"
+        },
+        "1.8.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "version": "1.8.0",
+          "unity": "2020.3",
+          "description": "Help your daily work with Material swapping, editting and more.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "zipSHA256": "9bf35f77a9055f39567792174c0c18f92bbf09ed33ea9384f78b8b7c09029416",
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.8.0/com.elypha.vpm.material-helper-1.8.0.zip"
+        }
+      }
+    },
+    "com.elypha.unity-toolkit": {
+      "versions": {
+        "0.2.0": {
+          "name": "com.elypha.unity-toolkit",
+          "displayName": "Unity Toolkit",
+          "description": "General Unity Editor QoL utilities.",
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "url": "https://github.com/Elypha/unity-toolkit/releases/download/v0.2.0/com.elypha.unity-toolkit-0.2.0.zip",
+          "version": "0.2.0",
+          "license": "AGPL-3.0-only",
+          "unity": "2022.3",
+          "vpmDependencies": {},
+          "dependencies": {},
+          "zipSHA256": "f558d8ac7640c53ad78a78f6bed7ed1ee93bc2e6340b455638579c69c229fdb1"
+        },
+        "0.1.0": {
+          "name": "com.elypha.unity-toolkit",
+          "displayName": "Unity Toolkit",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "General Unity Editor QoL utilities.",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "36d4a8aec55b24bcbeb587782dfec4a180daf7e7d26f676404799b15c0242c5c",
+          "url": "https://github.com/Elypha/unity-toolkit/releases/download/v0.1.0/com.elypha.unity-toolkit-0.1.0.zip"
+        }
+      }
+    },
+    "com.elypha.unity-vrchat-uploader": {
+      "versions": {
+        "0.3.0": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.3.0",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with speed-ups and re-try checkpoints.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "5b7b7d2257d71142c987c3b2031cc77ef4eee12252436de8c240d214a27356da",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.3.0/com.elypha.unity-vrchat-uploader-0.3.0.zip"
+        },
+        "0.2.1": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.2.1",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "93cfddeefc0701f033f736294897c16799bf9b25c62fd2e0f0314097b78bd621",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.2.1/com.elypha.unity-vrchat-uploader-0.2.1.zip"
+        },
+        "0.2.0": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.2.0",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "b1fd58bf9d9fdd7f5578e8fbb5e4a65f168742a4084b841e8d7d390817488ced",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.2.0/com.elypha.unity-vrchat-uploader-0.2.0.zip"
+        },
+        "0.1.4": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.1.4",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "4b040a94203358f44531a633add2c0e330ab3c368659d3109c08054412dda765",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.1.4/com.elypha.unity-vrchat-uploader-0.1.4.zip"
+        },
+        "0.1.3": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.1.3",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "51996abbb2f1639919d192551774846eb0212797d5c98de99b66aa125b8fdd23",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.1.3/com.elypha.unity-vrchat-uploader-0.1.3.zip"
+        },
+        "0.1.2": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.1.2",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "3d9cb250ef69700e12600baea881c52ca29da61db232d982e9a1fc744d4be4f2",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.1.2/com.elypha.unity-vrchat-uploader-0.1.2.zip"
+        },
+        "0.1.1": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.1.1",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "bbfd6fb6de251e6cfa1a48fb03cf6c67b2825fb35315ad7499ab03203b30f4f3",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.1.1/com.elypha.unity-vrchat-uploader-0.1.1.zip"
+        },
+        "0.1.0": {
+          "name": "com.elypha.unity-vrchat-uploader",
+          "displayName": "VRChat Uploader",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+          "dependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+          },
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "license": "AGPL-3.0-only",
+          "zipSHA256": "4c8f94dedd514a868fe24fcf25eaf24e68cc919daec49dd118e094c5e266a510",
+          "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.1.0/com.elypha.unity-vrchat-uploader-0.1.0.zip"
+        }
+      }
+    }
+  }
+}

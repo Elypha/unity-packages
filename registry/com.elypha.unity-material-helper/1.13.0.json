@@ -1,0 +1,16 @@
+{
+  "name": "com.elypha.unity-material-helper",
+  "displayName": "Material Helper",
+  "version": "1.13.0",
+  "unity": "2020.3",
+  "description": "Help your daily work with Material swapping, editting and more.",
+  "dependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Elypha",
+    "email": "i@elypha.com",
+    "url": "https://elypha.com"
+  },
+  "zipSHA256": "4acd345f2a16584e73d42e29c75bb86bc20ee8aa48ebb35718fb45f91866595d",
+  "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.13.0/com.elypha.vpm.material-helper-1.13.0.zip"
+}

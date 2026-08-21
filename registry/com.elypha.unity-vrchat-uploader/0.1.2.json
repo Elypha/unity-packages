@@ -1,0 +1,19 @@
+{
+  "name": "com.elypha.unity-vrchat-uploader",
+  "displayName": "VRChat Uploader",
+  "version": "0.1.2",
+  "unity": "2022.3",
+  "description": "Build and upload VRChat avatars with a separated build cache and upload flow.",
+  "dependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+  },
+  "author": {
+    "name": "Elypha",
+    "email": "i@elypha.com",
+    "url": "https://elypha.com"
+  },
+  "license": "AGPL-3.0-only",
+  "zipSHA256": "3d9cb250ef69700e12600baea881c52ca29da61db232d982e9a1fc744d4be4f2",
+  "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.1.2/com.elypha.unity-vrchat-uploader-0.1.2.zip"
+}
