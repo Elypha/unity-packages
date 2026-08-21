@@ -14,6 +14,25 @@
   "packages": {
     "com.elypha.unity-material-helper": {
       "versions": {
+        "1.22.0": {
+          "name": "com.elypha.unity-material-helper",
+          "displayName": "Material Helper",
+          "description": "Unity Editor utilities for materials, textures, and shaders.",
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.22.0/com.elypha.unity-material-helper-1.22.0.zip",
+          "version": "1.22.0",
+          "license": "AGPL-3.0-only",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+          },
+          "dependencies": {},
+          "zipSHA256": "c6c75b75c5d8d59ca9221819f04cb1541bd369cc471a669843422cb432fc7cd0"
+        },
         "1.21.0": {
           "name": "com.elypha.unity-material-helper",
           "displayName": "Material Helper",
@@ -332,22 +351,6 @@
           },
           "zipSHA256": "6f22b62fa99fe22787bea2bdaa4c3a82463a96d756862aa559e2811c28c1c9f3",
           "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.8.1/com.elypha.vpm.material-helper-1.8.1.zip"
-        },
-        "1.8.0": {
-          "name": "com.elypha.unity-material-helper",
-          "displayName": "Material Helper",
-          "version": "1.8.0",
-          "unity": "2020.3",
-          "description": "Help your daily work with Material swapping, editting and more.",
-          "dependencies": {},
-          "vpmDependencies": {},
-          "author": {
-            "name": "Elypha",
-            "email": "i@elypha.com",
-            "url": "https://elypha.com"
-          },
-          "zipSHA256": "9bf35f77a9055f39567792174c0c18f92bbf09ed33ea9384f78b8b7c09029416",
-          "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.8.0/com.elypha.vpm.material-helper-1.8.0.zip"
         }
       }
     },

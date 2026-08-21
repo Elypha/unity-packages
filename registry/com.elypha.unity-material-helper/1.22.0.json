@@ -1,0 +1,19 @@
+{
+  "name": "com.elypha.unity-material-helper",
+  "displayName": "Material Helper",
+  "description": "Unity Editor utilities for materials, textures, and shaders.",
+  "author": {
+    "name": "Elypha",
+    "email": "i@elypha.com",
+    "url": "https://elypha.com"
+  },
+  "url": "https://github.com/Elypha/unity-material-helper/releases/download/v1.22.0/com.elypha.unity-material-helper-1.22.0.zip",
+  "version": "1.22.0",
+  "license": "AGPL-3.0-only",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.1.0 <4.0.0"
+  },
+  "dependencies": {},
+  "zipSHA256": "c6c75b75c5d8d59ca9221819f04cb1541bd369cc471a669843422cb432fc7cd0"
+}
