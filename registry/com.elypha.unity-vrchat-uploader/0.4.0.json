@@ -1,0 +1,19 @@
+{
+  "name": "com.elypha.unity-vrchat-uploader",
+  "displayName": "VRChat Uploader",
+  "description": "Build and upload VRChat avatars with speed-ups and re-try checkpoints.",
+  "author": {
+    "name": "Elypha",
+    "email": "i@elypha.com",
+    "url": "https://elypha.com"
+  },
+  "url": "https://github.com/Elypha/unity-vrchat-uploader/releases/download/v0.4.0/com.elypha.unity-vrchat-uploader-0.4.0.zip",
+  "version": "0.4.0",
+  "license": "AGPL-3.0-only",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.10.4 <3.11.0"
+  },
+  "dependencies": {},
+  "zipSHA256": "12f186d33718add54f34365a038c1d34eb42b693abaa20d9fa26570f419c4ccd"
+}
