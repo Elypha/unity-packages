@@ -15,6 +15,7 @@
     "bannerUrl": "banner.jpg",
     "sources": {
         "Elypha/unity-toolkit": "com.elypha.unity-toolkit",
+        "Elypha/unity-texture-toolkit": "com.elypha.unity-texture-toolkit",
         "Elypha/unity-vrchat-uploader": "com.elypha.unity-vrchat-uploader",
         "Elypha/unity-material-helper": "com.elypha.unity-material-helper"
     }
