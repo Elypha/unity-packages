@@ -354,6 +354,27 @@
         }
       }
     },
+    "com.elypha.unity-texture-toolkit": {
+      "versions": {
+        "0.1.0": {
+          "name": "com.elypha.unity-texture-toolkit",
+          "displayName": "Texture Toolkit",
+          "description": "Editor-only texture audit and Standalone batch settings workflow.",
+          "author": {
+            "name": "Elypha",
+            "email": "i@elypha.com",
+            "url": "https://elypha.com"
+          },
+          "url": "https://github.com/Elypha/unity-texture-toolkit/releases/download/v0.1.0/com.elypha.unity-texture-toolkit-0.1.0.zip",
+          "version": "0.1.0",
+          "license": "AGPL-3.0-only",
+          "unity": "2022.3",
+          "vpmDependencies": {},
+          "dependencies": {},
+          "zipSHA256": "0e34d41b819f3dc74593b679b022d3934ba6469ab5539816c310771250bb66b0"
+        }
+      }
+    },
     "com.elypha.unity-toolkit": {
       "versions": {
         "0.6.0": {
